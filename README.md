@@ -1,0 +1,2 @@
+# Scalable-Web-Application-with-ALB-and-Auto-Scaling
+production web application on AWS using EC2 instances inside an architected VPC with public and private subnets across two Availability Zones. Achieve high availability and scalability with ALB, ASG, and a CloudFront distribution for caching static assets. A Multi-AZ RDS instance serves as the database backend, with all compute in private subnets.
